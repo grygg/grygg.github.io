@@ -12,7 +12,7 @@ Glad to see you here. My name is Ruiying Geng (耿瑞莹), currently a NLP resea
 
 My research interest focuses on semantic parsing, dialogue system, and few-shot learning.
 * Semantic Parsing: focusing on techniques to convert natural language into programing languages such as SQL and SPARQL.
-* Dialogue System: focusing on solutions for coreference and ellipsis.
+* Dialogue System: focusing on solutions for natural language understanding and generation in dialogue system.
 * Few-Shot Learning: focusing on machine learning solutions based on few annotations.
 
 
