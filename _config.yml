@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage | Ruiying Geng"
+title                    : "Ruiying Geng's Homepage"
 title_separator          : "-"
 name                     : &name "Ruiying Geng"
 description              : &description "personal description"
