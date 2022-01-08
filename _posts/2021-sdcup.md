@@ -1,7 +1,7 @@
 ---
 title: '从序列到结构，中文收个表格预训练模型发布'
 date: 2021-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2021-sdcup
 tags:
   - cool posts
   - category1

@@ -1,7 +1,7 @@
 ---
 title: '归纳+记忆：让机器像人一样从小样本中学习'
 date: 2020-04-01
-permalink: /posts/2019/few-shot-survey
+permalink: /posts/2020/induction
 
 tags:
   - cool posts
