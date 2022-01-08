@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Glad to see you here! My name is Ruiying Geng (耿瑞莹), currently a NLP researcher at Alibaba Damo Academy. I got my master degree from Beijing Institute of Technology, 2019.
+Glad to see you here! My name is Ruiying Geng (耿瑞莹), currently an NLP researcher at Alibaba Damo Academy. I got my master degree from Beijing Institute of Technology, 2019.
 
 My research interest focuses on semantic parsing, dialogue system, and few-shot learning.
 * Semantic Parsing: focusing on techniques to convert natural language into programing languages such as SQL and SPARQL.
@@ -28,7 +28,7 @@ News About Me
 
 Serving
 ======
-* Reviewer for ACL ARR 2021.
+* Reviewer for ACL ARR, including ACL 2022 and NAACL 2022.
 * Reviewer for NLPCC 2021.
 * Reviewer for AAAI 2021.
 
