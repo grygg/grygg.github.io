@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "<img src=\"/images/aboutme-logo.png\" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,12 +14,15 @@ Glad to see you here. My name is Ruiying Geng (耿瑞莹), currently a NLP resea
 News About Me 
 ======
 I release the first Chinese table pre-training model [SDCUP](https://github.com/alibaba/AliceMind/tree/main/SDCUP). You can find my [article](https://mp.weixin.qq.com/s/DxOVCvo-TQ2Cm77ng_ZULQ) online.
+
 2 papers have been submitted to ACL ARR 2021 November.
 
 
 Serving
 ======
 Reviewer for ACL ARR 2021.
+
 Reviewer for NLPCC 2021.
+
 Reviewer for AAAI 2021.
 
