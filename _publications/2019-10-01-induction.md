@@ -5,7 +5,7 @@ permalink: /publication/2019-10-01-induction
 excerpt: '**Ruiying Geng**, Binhua Li, Yongbin Li, Xiaodan Zhu, Ping Jian, Jian Jun<br>In *2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing
  (**EMNLP-IJCNLP-2019**, Oral)*'
 date: 2019-10-01
-venue:
+venue: EMNLP-IJCNLP
 ---
 
 \[[PAPER](https://arxiv.org/pdf/1902.10482.pdf)\]
