@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruiying Geng"
+title                    : "Homepage | Ruiying Geng"
 title_separator          : "-"
 name                     : &name "Ruiying Geng"
 description              : &description "personal description"
@@ -82,40 +82,10 @@ analytics:
 author:
   name             : "Ruiying Geng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am an NLP algorithm researcher at Alibaba Damo Academy. My research interest focuses on semantic parsing, dialogue system, and few-shot learning."
   location         : "Beijing"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UpzTZkgAAAAJ&hl=zh-CN"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  email            : "ruiying.gry@alibaba-inc.com"
 
 # Reading Files
 include:
