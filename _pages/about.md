@@ -32,8 +32,8 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 
 ## <i class="fa fa-ft fa-university"></i>&nbsp;&nbsp;Education
 
-* B.S. in Beijing Institute of Technology, 2011.9 - 2016.6
-* M.S. in Beijing Institute of Technology, 2016.9 - 2019.6
+* 2011.9 - 2016.6: B.S. in Beijing Institute of Technology
+* 2016.9 - 2019.6: M.S. in Beijing Institute of Technology
 
 ## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
 
