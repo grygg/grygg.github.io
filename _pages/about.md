@@ -42,3 +42,13 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 
 * 2019.7 - Present: **Alibaba Damo Academy**
   * NLP Researcher at *Natural Langauge Processing* Group
+
+## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
+* Dynamic Hybrid Relation Exploration Network for Cross-Domain Context-Dependent Semantic Parsing, AAAI 2021
+* Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion, SIGIR 2021
+* Dynamic Memory Induction Networks for Few-Shot Text Classification, ACL 2020
+* Induction Networks for Few-Shot Text Classification, EMNLP 2019
+* Ranking Like Human: Global-View Matching via Reinforcement Learning for Answer Selection, IALP 2019
+* Leveraging Pattern Associations For Word Embedding Models, DASFAA 2017
+* Implicit Discourse Relation Identification Based on Tree Structure Neural Network, IALP 2017
+* Semantic Graph Convolutional Network for Implicit Discourse Relation Classification, NAACL 2021
