@@ -32,3 +32,15 @@ Serving
 * Reviewer for NLPCC 2021.
 * Reviewer for AAAI 2021.
 
+## <i class="fa fa-ft fa-university"></i>&nbsp;&nbsp;Education
+
+* B.S. in Beijing Institute of Technology, 2011.9 - 2016.6
+* M.S. in Beijing Institute of Technology, 2016.9 - 2019.6
+
+## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
+
+* 2018.5 - 2019.6: **Alibaba Damo Academy**
+  * Research Intern at *Conversational AI* Group
+
+* 2019.7 - Present: **Alibaba Damo Academy**
+  * NLP Researcher *Conversational AI* Group
