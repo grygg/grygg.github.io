@@ -40,7 +40,7 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 ## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
 
 * 2018.5 - 2019.6: **Alibaba Damo Academy**
-  * Research Intern at *Conversational AI* Group
+  * Research Intern at *Natural Langauge Processing* Group
 
 * 2019.7 - Present: **Alibaba Damo Academy**
-  * NLP Researcher *Conversational AI* Group
+  * NLP Researcher at *Natural Langauge Processing* Group
