@@ -17,7 +17,6 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me 
-======
 * I release the first Chinese table pre-training model [SDCUP](https://github.com/alibaba/AliceMind/tree/main/SDCUP). You can find the [article](https://mp.weixin.qq.com/s/DxOVCvo-TQ2Cm77ng_ZULQ) now.
 * Two papers have been submitted to ACL ARR 2021 November.
 * One paper has been accepted by SIGIR 2021.
@@ -27,7 +26,6 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 
 
 ## <i class="fa fa-ft fa-hands-helping"></i>&nbsp;&nbsp;Serving
-======
 * Reviewer for ACL ARR, including ACL 2022 and NAACL 2022.
 * Reviewer for NLPCC 2021.
 * Reviewer for AAAI 2021.
