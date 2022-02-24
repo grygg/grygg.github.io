@@ -17,7 +17,7 @@ My research interest focuses on semantic parsing, dialogue system, and few-shot 
 
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me 
-* S^2SQL paper is submitted by ACL 2022, which has achieved the No.1 in the [Spider](https://yale-lily.github.io/spider) Leaderboard.
+* S^2SQL paper is accepted by ACL 2022, which has achieved the No.1 in the [Spider](https://yale-lily.github.io/spider) Leaderboard.
 * I release the first Chinese table pre-training model [SDCUP](https://github.com/alibaba/AliceMind/tree/main/SDCUP). You can find the [article](https://mp.weixin.qq.com/s/DxOVCvo-TQ2Cm77ng_ZULQ) now.
 * One paper has been accepted by SIGIR 2021.
 * One paper has been accepted by AAAI 2021.
